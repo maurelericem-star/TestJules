@@ -11,12 +11,23 @@ Chef de projet Senior, expert en **intégration SI** et **DevOps**, je pilote le
 
 ### COMPÉTENCES CLÉS
 
-| PILOTAGE & GOUVERNANCE (PMP/PMO) | INTÉGRATION, DEVOPS & AMÉLIORATION CONTINUE | EXPERTISE SYSTÈMES CRITIQUES & DATA |
-| :--- | :--- | :--- |
-| Pilotage de projets (PMP, Coûts, Risques) | Intégration d'application & Middlewares (Kafka) | Conception d'architecture & Garantie d'Exploitabilité |
-| Gestion de Portefeuille (PMO) & Vision 360° (P&L/Commercial) pour optimiser l'investissement SI | Automatisation & Scripting (PowerShell) | Infrastructures Critiques (HA, PRA, RTO/RPO) |
-| Fédération d'équipes matricielles & transverses | Approche DevOps & Agilité (SAFe, Scrum) | Bases de données (Oracle, SQL Server) & Datacenters |
-| Animation de comités & Suivi financier | Optimisation des processus & Transfert de compétences | Maîtrise des risques & Conformité (COSO 2013) |
+#### PILOTAGE & GOUVERNANCE (PMP/PMO)
+* Pilotage de projets (PMP, Coûts, Risques)
+* Gestion de Portefeuille (PMO) & Vision 360°
+* Fédération d'équipes matricielles & transverses
+* Animation de comités & Suivi financier
+
+#### INTÉGRATION, DEVOPS & AMÉLIORATION CONTINUE
+* Intégration d'application & Middlewares (Kafka)
+* Automatisation & Scripting (PowerShell)
+* Approche DevOps & Agilité (SAFe, Scrum)
+* Optimisation des processus & Transfert de compétences
+
+#### EXPERTISE SYSTÈMES CRITIQUES & DATA
+* Conception d'architecture & Garantie d'Exploitabilité
+* Infrastructures Critiques (HA, PRA, RTO/RPO)
+* Bases de données (Oracle, SQL Server) & Datacenters
+* Maîtrise des risques & Conformité (COSO 2013)
 
 ---
 

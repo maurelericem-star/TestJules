@@ -1,0 +1,3 @@
+Rapport d'audit: Paragraphes avec formatage manuel sur style 'Normal':
+
+- "Chef de projet Senior, expert en intégration SI et DevOps, je pilote le cycle de vie "de bout en bout" des solutions digitales. Mon rôle est de concevoir l'architecture et de garantir l'exploitabilité des systèmes critiques, en m'appuyant sur une expertise prouvée en PRA/RTO pour assurer une fiabilité opérationnelle sans faille."
