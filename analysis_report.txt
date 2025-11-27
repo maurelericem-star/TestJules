@@ -1,0 +1,20 @@
+2025-11-27 07:37:02,394 - --- Début de l'Audit de Formatage Manuel ---
+2025-11-27 07:37:02,419 - Audit terminé : Problèmes de formatage trouvés. Voir 'audit_styles.txt'.
+2025-11-27 07:37:02,419 - --- Fin de l'Audit ---
+2025-11-27 07:37:02,419 -
+--- Début du Mapping des Styles ---
+2025-11-27 07:37:02,430 - Style pour 'nom_prenom' -> 'C_Titre_Principal'
+2025-11-27 07:37:02,430 - Style pour 'titre_poste' -> 'C_Role_Strategique'
+2025-11-27 07:37:02,430 - Style pour 'coordonnees' -> 'C_Role_Strategique'
+2025-11-27 07:37:02,430 - Style pour 'titre_section' -> 'C_Titre_Section'
+2025-11-27 07:37:02,430 - Style pour 'poste' -> 'C_Titre_Client'
+2025-11-27 07:37:02,430 - Style pour 'tableau_competences' -> 'Table Grid'
+2025-11-27 07:37:02,430 - --- Fin du Mapping ---
+2025-11-27 07:37:02,431 -
+Mapping des styles sauvegardé dans 'styles.json'
+2025-11-27 07:37:02,487 -
+--- Début de la Création du Template Master ---
+2025-11-27 07:37:02,490 - Tableau de compétences (style 'Table Grid') identifié et vidé.
+2025-11-27 07:37:02,491 - Contenu textuel supprimé, images et structure principale conservées.
+2025-11-27 07:37:02,545 - Template master sauvegardé sous : 'template_master.docx'
+2025-11-27 07:37:02,545 - --- Fin de la Création du Template ---
